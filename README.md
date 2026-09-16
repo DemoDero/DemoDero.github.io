@@ -7,7 +7,7 @@ Bachelor's Graduate in Computer Science
 ![LinkedIn](https://shields.io) LinkedIn: (www.linkedin.com/in/christian-estrada-cs)
 
 # Coding Languages
-[![Python](https://img.shields.io/badge/Python-yellow.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-natureblue.svg)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-teal.svg)](https://dev.java/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg)](https://kotlinlang.org/)
 
