@@ -8,7 +8,7 @@ Bachelor's Graduate in Computer Science
 
 # Coding Languages
 [![Python](https://img.shields.io/badge/Python-4B8BBE.svg)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-teal.svg)](https://dev.java/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-f89820.svg)](https://dev.java/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-f18e33.svg)](https://kotlinlang.org/)
 
 # Past Projects from Education
